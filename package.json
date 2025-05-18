@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "adm-zip": "0.5.16",
-    "axios": "^1.7.7",
+    "axios": "^1.9.0",
     "chalk": "^5.4.1",
     "lodash": "^4.17.21",
     "office-addin-usage-data": "^2.0.3",
